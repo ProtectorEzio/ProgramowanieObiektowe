@@ -1,0 +1,11 @@
+Time stamp: 09/11/2018 11:22:47
+Konto:
+bilans startowy 2000.0,
+bilans koncowy 500.0,
+przelew 1500.0,
+wplata 250.0,
+wyplata 250.0,
+wyplata z bankomatu 200,
+platnosc karta 200.0
+wynagrodzenie: 400.0,
+bonusy socjalne: 1000.0
